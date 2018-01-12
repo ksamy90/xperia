@@ -1,10 +1,10 @@
 # react and redux shopping cart
 
-Shopping cart implemented in react.js and redux.js
+Shopping cart implemented in react and redux
 
 ## getting started
 
-install dependencies and start local dev server
+install dependencies and start local server
 
 ```
 npm install
