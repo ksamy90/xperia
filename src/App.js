@@ -21,7 +21,7 @@ const App = () => {
 
             <footer>
                 <small>
-                    Github reference at <a href="https://github.com/krzysu/reactjs-shopping-cart">github</a>
+                    Github reference at <a href="https://github.com/ksamy90/xperia">github</a>
                 </small>
             </footer>
         </div>
