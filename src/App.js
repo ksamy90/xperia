@@ -19,11 +19,6 @@ const App = () => {
                 </div>
             </div>
 
-            <footer>
-                <small>
-                    Github reference at <a href="https://github.com/ksamy90/xperia">github</a>
-                </small>
-            </footer>
         </div>
     );
 }
